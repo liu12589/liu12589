@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 💬 Wechat: WX15006697131
 - 📫 Email: [1910260504@qq.com](mailto:1910260504@qq.com)
 
-<img alt="L_MY's GitHub stats" src="https://github-readme-stats-liart-theta.vercel.app/api?username=liu12589&count_private=true&show_icons=true&include_all_commits=true&hide_title=true"/>
+<img alt="L_MY's GitHub stats" src="https://github-readme-stats-liart-theta.vercel.app/api?username=liu12589&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&theme=radical"/>
 </td>
 <!--
 <table>
